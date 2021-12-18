@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr9
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1          Arsenal_FC   23    9    7    2    0   17    5      +12
+  2          Chelsea_FC   20    9    6    2    1   21    9      +12
+  3  Tottenham_Hotspurs   20    9    6    2    1   21   11      +10
+  4   Manchester_United   19    9    6    1    2   22    8      +14
+  5     Manchester_City   18    9    5    3    1   20    8      +12
+  6        FC_Liverpool   16    9    5    1    3   18   11      +7
+  7         Brenford_FC   14    9    4    2    3   15   13      +2
+  8    Blackburn_Rovers   14    9    4    2    3   18   17      +1
+  9      Sunderland_AFC   12    9    3    3    3   12   13     -1
+ 10      Southampton_FC   12    9    3    3    3    9   10     -1
+ 11   Nottingham_Forest   12    9    3    3    3   13   16     -3
+ 12          Stoke_City   12    9    3    3    3   11   15     -4
+ 13          Everton_FC   10    9    3    1    5   20   20      0
+ 14     West_Ham_United   10    9    2    4    3   11   16     -5
+ 15    Newcastle_United    9    9    2    3    4   14   17     -3
+ 16           Fulham_FC    7    9    1    4    4   12   16     -4
+ 17     Bolton_Wanderes    7    9    2    1    6   13   30    -17
+ 18          Reading_FC    4    9    0    4    5    8   17     -9
+ 19      Wigan_Athletic    4    9    1    1    7   16   26    -10
+ 20West_Bromwich_Albion    4    9    1    1    7    8   21    -13
+Wyniki spotkan 9 kolejki: 
+
+Manchester_United-Southampton_FC 1:1
+Manchester_City-Stoke_City 5:0
+Chelsea_FC-Brenford_FC 2:0
+Reading_FC-Tottenham_Hotspurs 1:1
+Blackburn_Rovers-Nottingham_Forest 2:1
+Wigan_Athletic-West_Ham_United 6:1
+Sunderland_AFC-Everton_FC 2:0
+West_Bromwich_Albion-Fulham_FC 2:2
+Bolton_Wanderes-Newcastle_United 3:1
+FC_Liverpool-Arsenal_FC 2:2
+
+
+
+
+
+
+
+
+

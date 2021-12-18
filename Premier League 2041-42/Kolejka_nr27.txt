@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr27
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1   Manchester_United   62   27   19    5    3   82   31      +51
+  2        FC_Liverpool   57   27   18    3    6   69   28      +41
+  3          Chelsea_FC   57   27   17    6    4   59   31      +28
+  4     Manchester_City   51   27   14    9    4   64   31      +33
+  5          Arsenal_FC   50   27   14    8    5   47   28      +19
+  6  Tottenham_Hotspurs   48   27   13    9    5   46   34      +12
+  7          Everton_FC   45   27   14    3   10   58   38      +20
+  8      Southampton_FC   39   27   11    6   10   33   34     -1
+  9     West_Ham_United   33   27    8    9   10   35   46    -11
+ 10    Blackburn_Rovers   32   27    7   11    9   41   48     -7
+ 11         Brenford_FC   31   27    7   10   10   42   49     -7
+ 12          Reading_FC   30   27    6   12    9   32   43    -11
+ 13      Sunderland_AFC   30   27    7    9   11   34   46    -12
+ 14           Fulham_FC   29   27    6   11   10   43   50     -7
+ 15          Stoke_City   27   27    6    9   12   35   49    -14
+ 16      Wigan_Athletic   27   27    7    6   14   40   67    -27
+ 17    Newcastle_United   26   27    6    8   13   38   48    -10
+ 18   Nottingham_Forest   22   27    4   10   13   28   53    -25
+ 19     Bolton_Wanderes   21   27    5    6   16   31   67    -36
+ 20West_Bromwich_Albion   15   27    3    6   18   24   60    -36
+Wyniki spotkan 27 kolejki: 
+
+Stoke_City-Southampton_FC 0:1
+Chelsea_FC-Manchester_United 2:3
+Manchester_City-Tottenham_Hotspurs 1:2
+Blackburn_Rovers-Brenford_FC 1:1
+Reading_FC-West_Ham_United 2:2
+Sunderland_AFC-Nottingham_Forest 2:0
+Wigan_Athletic-Fulham_FC 1:2
+Bolton_Wanderes-Everton_FC 1:1
+West_Bromwich_Albion-Arsenal_FC 1:4
+FC_Liverpool-Newcastle_United 2:0
+
+
+
+
+
+
+
+
+

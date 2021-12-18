@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr19
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1          Chelsea_FC   43   19   13    4    2   41   20      +21
+  2   Manchester_United   42   19   13    3    3   55   19      +36
+  3          Arsenal_FC   41   19   12    5    2   35   15      +20
+  4        FC_Liverpool   39   19   12    3    4   50   22      +28
+  5  Tottenham_Hotspurs   37   19   10    7    2   38   22      +16
+  6     Manchester_City   34   19    9    7    3   47   21      +26
+  7          Everton_FC   29   19    9    2    8   39   32      +7
+  8      Southampton_FC   28   19    8    4    7   25   24      +1
+  9    Blackburn_Rovers   23   19    5    8    6   35   38     -3
+ 10      Wigan_Athletic   21   19    6    3   10   33   46    -13
+ 11     West_Ham_United   21   19    5    6    8   22   35    -13
+ 12         Brenford_FC   20   19    4    8    7   27   36     -9
+ 13          Reading_FC   20   19    4    8    7   20   31    -11
+ 14           Fulham_FC   19   19    4    7    8   31   37     -6
+ 15          Stoke_City   19   19    4    7    8   25   36    -11
+ 16      Sunderland_AFC   19   19    4    7    8   20   32    -12
+ 17   Nottingham_Forest   18   19    4    6    9   22   35    -13
+ 18     Bolton_Wanderes   17   19    5    2   12   23   52    -29
+ 19    Newcastle_United   14   19    2    8    9   27   40    -13
+ 20West_Bromwich_Albion   11   19    2    5   12   18   40    -22
+Wyniki spotkan 19 kolejki: 
+
+Arsenal_FC-Southampton_FC 1:1
+Bolton_Wanderes-FC_Liverpool 0:2
+Newcastle_United-Fulham_FC 2:3
+Sunderland_AFC-West_Bromwich_Albion 1:1
+Everton_FC-West_Ham_United 5:0
+Blackburn_Rovers-Wigan_Athletic 1:2
+Nottingham_Forest-Tottenham_Hotspurs 0:1
+Chelsea_FC-Reading_FC 1:0
+Brenford_FC-Stoke_City 2:2
+Manchester_United-Manchester_City 2:0
+
+
+
+
+
+
+
+
+

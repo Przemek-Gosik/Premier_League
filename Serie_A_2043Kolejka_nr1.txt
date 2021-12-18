@@ -1,0 +1,43 @@
+Tabela Serie_A_2043 po kolejce nr1
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1      Inter_Mediolan    3    1    1    0    0    6    0      +6
+  2      Juventus_Turyn    3    1    1    0    0    5    0      +5
+  3            AC_Milan    3    1    1    0    0    4    0      +4
+  4             AS_Roma    3    1    1    0    0    6    3      +3
+  5          Lazio_Rzym    3    1    1    0    0    3    1      +2
+  6      Brescia_Calcio    3    1    1    0    0    2    1      +1
+  7     Cagliari_Calcio    3    1    1    0    0    1    0      +1
+  8      AFC_Fiorentina    1    1    0    1    0    2    2      0
+  9           Genoa_AFC    1    1    0    1    0    2    2      0
+ 10          Venezia_FC    1    1    0    1    0    2    2      0
+ 11               Parma    1    1    0    1    0    2    2      0
+ 12    Benevento_Calcio    1    1    0    1    0    1    1      0
+ 13           Torino_FC    1    1    0    1    0    1    1      0
+ 14          SSC_Napoli    0    1    0    0    1    1    2     -1
+ 15            US_Lecce    0    1    0    0    1    0    1     -1
+ 16     Sassuolo_Calcio    0    1    0    0    1    1    3     -2
+ 17          Bologna_FC    0    1    0    0    1    3    6     -3
+ 18     Sampdoria_Genua    0    1    0    0    1    0    4     -4
+ 19       AS_Cittadella    0    1    0    0    1    0    5     -5
+ 20                SPAL    0    1    0    0    1    0    6     -6
+Wyniki spotkan 1 kolejki: 
+
+Torino_FC-Benevento_Calcio 1:1
+Inter_Mediolan-SPAL 6:0
+Sassuolo_Calcio-Lazio_Rzym 1:3
+Parma-Venezia_FC 2:2
+Sampdoria_Genua-AC_Milan 0:4
+Bologna_FC-AS_Roma 3:6
+SSC_Napoli-Brescia_Calcio 1:2
+Cagliari_Calcio-US_Lecce 1:0
+Juventus_Turyn-AS_Cittadella 5:0
+AFC_Fiorentina-Genoa_AFC 2:2
+
+
+
+
+
+
+
+
+

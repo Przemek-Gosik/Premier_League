@@ -1,0 +1,39 @@
+Tabela Ekstraklasa po kolejce nr13
+Poz                   Druzyna  Pkt    M    W    R    P    +    - bilans
+  1        Ruch_Chorzow   31   13    9    4    0   31   14      +17
+  2      Arsenal_Lublin   30   13   10    0    3   39   13      +26
+  3      Legia_Warszawa   27   13    8    3    2   31   15      +16
+  4         Lech_Poznan   25   13    7    4    2   27   14      +13
+  5       Sygnal_Lublin   21   13    6    3    4   18   18      0
+  6      Nadwislan_Gora   21   13    6    3    4   23   29     -6
+  7       Gornik_Leczna   20   13    6    2    5   30   31     -1
+  8Jagiellonia_Bialystok   19   13    5    4    4   24   20      +4
+  9   Siarka_Tarnobrzeg   18   13    5    3    5   20   21     -1
+ 10       Lechia_Gdansk   17   13    4    5    4   25   21      +4
+ 11      Pogon_Szczecin   15   13    4    3    6   18   22     -4
+ 12         Widzew_Lodz   14   13    4    2    7   18   23     -5
+ 13       Gornik_Zabrze   12   13    3    3    7   11   22    -11
+ 14        Wisla_Krakow   11   13    2    5    6   17   23     -6
+ 15       Hetman_Zamosc   11   13    3    2    8   15   30    -15
+ 16            Cracovia   10   13    2    4    7   25   33     -8
+ 17    Polonia_Warszawa   10   13    2    4    7   11   22    -11
+ 18       Slask_Wroclaw   10   13    2    4    7   17   29    -12
+Wyniki spotkan 13 kolejki: 
+
+Polonia_Warszawa-Nadwislan_Gora 1:3
+Pogon_Szczecin-Gornik_Leczna 0:1
+Wisla_Krakow-Slask_Wroclaw 1:1
+Jagiellonia_Bialystok-Lech_Poznan 0:3
+Widzew_Lodz-Sygnal_Lublin 1:1
+Cracovia-Siarka_Tarnobrzeg 5:2
+Legia_Warszawa-Ruch_Chorzow 1:4
+Arsenal_Lublin-Hetman_Zamosc 4:1
+Gornik_Zabrze-Lechia_Gdansk 1:0
+
+
+
+
+
+
+
+

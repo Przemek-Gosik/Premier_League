@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1610454744 source:c:\users\preme\desktop\premier_league\main.cpp
+	<iostream>
+	"Druzyna.h"
+	"Kolejka.h"
+
+1610398189 source:c:\users\preme\desktop\premier_league\src\druzyna.cpp
+	"Druzyna.h"
+
+1610393005 c:\users\preme\desktop\premier_league\include\druzyna.h
+	<string>
+	<iostream>
+
+1610401701 c:\users\preme\desktop\premier_league\include\kolejka.h
+	"Druzyna.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<cstdlib>
+	<ctime>
+
+1610542074 source:c:\users\preme\desktop\premier_league\src\kolejka.cpp
+	"Kolejka.h"
+
+1629718152 source:c:\users\preme\desktop\tabelki\premier_league\main.cpp
+	<iostream>
+	"Druzyna.h"
+	"Kolejka.h"
+
+1610393005 c:\users\preme\desktop\tabelki\premier_league\include\druzyna.h
+	<string>
+	<iostream>
+
+1629718308 c:\users\preme\desktop\tabelki\premier_league\include\kolejka.h
+	"Druzyna.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1617215181 source:c:\users\preme\desktop\tabelki\premier_league\src\druzyna.cpp
+	"Druzyna.h"
+
+1636123123 source:c:\users\preme\desktop\tabelki\premier_league\src\kolejka.cpp
+	"Kolejka.h"
+

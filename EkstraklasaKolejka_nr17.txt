@@ -1,0 +1,39 @@
+Tabela Ekstraklasa po kolejce nr17
+Poz                   Druzyna  Pkt    M    W    R    P    +    - bilans
+  1      Arsenal_Lublin   42   17   14    0    3   52   16      +36
+  2        Ruch_Chorzow   41   17   12    5    0   46   22      +24
+  3      Legia_Warszawa   35   17   10    5    2   40   21      +19
+  4         Lech_Poznan   30   17    8    6    3   34   21      +13
+  5      Nadwislan_Gora   27   17    8    3    6   29   38     -9
+  6       Sygnal_Lublin   24   17    7    3    7   23   26     -3
+  7       Gornik_Leczna   24   17    7    3    7   34   38     -4
+  8Jagiellonia_Bialystok   23   17    6    5    6   28   26      +2
+  9       Lechia_Gdansk   21   17    5    6    6   29   26      +3
+ 10   Siarka_Tarnobrzeg   21   17    6    3    8   24   31     -7
+ 11      Pogon_Szczecin   19   17    5    4    8   24   27     -3
+ 12         Widzew_Lodz   19   17    5    4    8   23   30     -7
+ 13    Polonia_Warszawa   19   17    5    4    8   15   23     -8
+ 14       Gornik_Zabrze   18   17    5    3    9   17   28    -11
+ 15        Wisla_Krakow   17   17    4    5    8   29   33     -4
+ 16       Slask_Wroclaw   17   17    4    5    8   24   34    -10
+ 17       Hetman_Zamosc   13   17    3    4   10   21   40    -19
+ 18            Cracovia   12   17    2    6    9   29   41    -12
+Wyniki spotkan 17 kolejki: 
+
+Polonia_Warszawa-Sygnal_Lublin 0:1
+Cracovia-Jagiellonia_Bialystok 1:3
+Slask_Wroclaw-Ruch_Chorzow 2:2
+Arsenal_Lublin-Pogon_Szczecin 2:1
+Nadwislan_Gora-Lechia_Gdansk 2:1
+Gornik_Zabrze-Gornik_Leczna 3:0
+Wisla_Krakow-Hetman_Zamosc 5:2
+Legia_Warszawa-Lech_Poznan 2:2
+Widzew_Lodz-Siarka_Tarnobrzeg 2:1
+
+
+
+
+
+
+
+

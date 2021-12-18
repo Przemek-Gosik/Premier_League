@@ -1,0 +1,43 @@
+Tabela Serie_A_2043 po kolejce nr4
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1          Lazio_Rzym   12    4    4    0    0    7    1      +6
+  2      Inter_Mediolan   10    4    3    1    0   12    2      +10
+  3      AFC_Fiorentina   10    4    3    1    0   10    4      +6
+  4             AS_Roma    9    4    3    0    1   18    8      +10
+  5            AC_Milan    9    4    3    0    1    8    2      +6
+  6     Sampdoria_Genua    9    4    3    0    1    6    6      0
+  7      Juventus_Turyn    7    4    2    1    1   11    7      +4
+  8               Parma    7    4    2    1    1    8    6      +2
+  9          SSC_Napoli    6    4    2    0    2   10    6      +4
+ 10      Brescia_Calcio    6    4    2    0    2    6    6      0
+ 11          Bologna_FC    4    4    1    1    2    6    9     -3
+ 12    Benevento_Calcio    4    4    1    1    2    3    6     -3
+ 13     Cagliari_Calcio    4    4    1    1    2    5   10     -5
+ 14       AS_Cittadella    4    4    1    1    2    3    8     -5
+ 15                SPAL    4    4    1    1    2    4   11     -7
+ 16           Torino_FC    2    4    0    2    2    4    7     -3
+ 17          Venezia_FC    2    4    0    2    2    5   10     -5
+ 18     Sassuolo_Calcio    1    4    0    1    3    3    7     -4
+ 19            US_Lecce    1    4    0    1    3    2    8     -6
+ 20           Genoa_AFC    1    4    0    1    3    5   12     -7
+Wyniki spotkan 4 kolejki: 
+
+Parma-Torino_FC 3:1
+AC_Milan-Lazio_Rzym 0:2
+Inter_Mediolan-Bologna_FC 2:0
+Brescia_Calcio-Benevento_Calcio 1:2
+SPAL-Cagliari_Calcio 2:1
+AS_Cittadella-Sassuolo_Calcio 1:1
+Venezia_FC-AFC_Fiorentina 1:4
+Genoa_AFC-Sampdoria_Genua 1:3
+AS_Roma-Juventus_Turyn 5:2
+US_Lecce-SSC_Napoli 0:3
+
+
+
+
+
+
+
+
+

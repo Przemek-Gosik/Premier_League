@@ -1,0 +1,15 @@
+Tabela test po kolejce nr3
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1                   e    7    3    2    1    0    8    4      +4
+  2                   f    7    3    2    1    0    6    2      +4
+  3                   a    4    3    1    1    1    4    5     -1
+  4                   c    3    3    1    0    2    4    6     -2
+  5                   b    3    3    1    0    2    3    6     -3
+  6                   d    1    3    0    1    2    6    8     -2
+Wyniki spotkan 3 kolejki: 
+
+f-c 3:1
+d-b 2:3
+a-e 2:4
+
+

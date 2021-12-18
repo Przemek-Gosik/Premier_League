@@ -1,0 +1,43 @@
+Tabela Premier_Legue_2043 po kolejce nr7
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1  Tottenham_Hotspurs   19    7    6    1    0   21    8      +13
+  2             Man_Utd   19    7    6    1    0   18    5      +13
+  3          Chelsea_FC   18    7    6    0    1   24    5      +19
+  4        Liverpool_FC   18    7    6    0    1   17    6      +11
+  5      Sunderland_AFC   14    7    4    2    1   11   11      0
+  6          Arsenal_FC   13    7    4    1    2   20    8      +12
+  7        Blackpool_FC   12    7    3    3    1   11   13     -2
+  8            Man_City   11    7    3    2    2   16   12      +4
+  9          Everton_FC   10    7    3    1    3   15   11      +4
+ 10         Brenford_FC   10    7    2    4    1   18   16      +2
+ 11         Millwall_FC    8    7    2    2    3    9   19    -10
+ 12          Stoke_City    7    7    2    1    4   10   14     -4
+ 13      Southampton_FC    6    7    1    3    3    6    9     -3
+ 14                 QPR    6    7    1    3    3    7   11     -4
+ 15      Wigan_Athletic    5    7    1    2    4    5   12     -7
+ 16           Fulham_FC    4    7    0    4    3   10   16     -6
+ 17    Blackburn_Rovers    4    7    1    1    5    8   15     -7
+ 18    Bolton_Wanderers    4    7    1    1    5   11   24    -13
+ 19        West_Ham_Utd    2    7    0    2    5    5   15    -10
+ 20       Newcastle_Utd    2    7    0    2    5   10   22    -12
+Wyniki spotkan 7 kolejki: 
+
+Southampton_FC-Blackpool_FC 1:1
+Arsenal_FC-Brenford_FC 2:2
+QPR-Millwall_FC 1:1
+West_Ham_Utd-Man_City 0:3
+Chelsea_FC-Man_Utd 1:3
+Everton_FC-Fulham_FC 3:1
+Wigan_Athletic-Sunderland_AFC 1:3
+Blackburn_Rovers-Bolton_Wanderers 5:2
+Newcastle_Utd-Liverpool_FC 0:3
+Stoke_City-Tottenham_Hotspurs 1:4
+
+
+
+
+
+
+
+
+

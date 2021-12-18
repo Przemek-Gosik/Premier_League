@@ -1,0 +1,11 @@
+Tabela Grupa po kolejce nr5
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1            Brazylia   15    5    5    0    0   18    1      +17
+  2              Wlochy    8    5    2    2    1    8   11     -3
+  3              Meksyk    4    5    1    1    3    6   11     -5
+  4             Japonia    1    5    0    1    4    1   10     -9
+Wyniki spotkan 5 kolejki: 
+
+Wlochy-Meksyk 1:1
+Brazylia-Japonia 4:0
+

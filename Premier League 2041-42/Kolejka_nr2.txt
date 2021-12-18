@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr2
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1  Tottenham_Hotspurs    6    2    2    0    0    6    2      +4
+  2    Blackburn_Rovers    6    2    2    0    0    5    1      +4
+  3   Manchester_United    6    2    2    0    0    5    1      +4
+  4          Chelsea_FC    6    2    2    0    0    5    2      +3
+  5     Manchester_City    4    2    1    1    0    7    2      +5
+  6          Arsenal_FC    4    2    1    1    0    4    1      +3
+  7      Sunderland_AFC    4    2    1    1    0    4    3      +1
+  8      Southampton_FC    4    2    1    1    0    2    1      +1
+  9          Stoke_City    2    2    0    2    0    3    3      0
+ 10     West_Ham_United    2    2    0    2    0    3    3      0
+ 11         Brenford_FC    2    2    0    2    0    2    2      0
+ 12     Bolton_Wanderes    1    2    0    1    1    2    3     -1
+ 13    Newcastle_United    1    2    0    1    1    3    5     -2
+ 14          Everton_FC    1    2    0    1    1    3    5     -2
+ 15          Reading_FC    1    2    0    1    1    1    3     -2
+ 16           Fulham_FC    1    2    0    1    1    1    4     -3
+ 17   Nottingham_Forest    1    2    0    1    1    2    7     -5
+ 18        FC_Liverpool    0    2    0    0    2    2    4     -2
+ 19      Wigan_Athletic    0    2    0    0    2    3    6     -3
+ 20West_Bromwich_Albion    0    2    0    0    2    0    5     -5
+Wyniki spotkan 2 kolejki: 
+
+Southampton_FC-Fulham_FC 1:1
+Sunderland_AFC-Bolton_Wanderes 2:2
+Arsenal_FC-West_Ham_United 1:1
+Blackburn_Rovers-FC_Liverpool 2:1
+Newcastle_United-Tottenham_Hotspurs 1:3
+Chelsea_FC-West_Bromwich_Albion 2:0
+Everton_FC-Stoke_City 2:2
+Manchester_United-Wigan_Athletic 3:1
+Nottingham_Forest-Manchester_City 1:6
+Brenford_FC-Reading_FC 1:1
+
+
+
+
+
+
+
+
+

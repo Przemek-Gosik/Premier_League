@@ -1,0 +1,43 @@
+Tabela Premier_Legue_2043 po kolejce nr4
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1          Chelsea_FC   12    4    4    0    0   10    1      +9
+  2  Tottenham_Hotspurs   10    4    3    1    0   12    6      +6
+  3             Man_Utd   10    4    3    1    0    7    2      +5
+  4        Liverpool_FC    9    4    3    0    1    6    4      +2
+  5         Brenford_FC    8    4    2    2    0   13    8      +5
+  6        Blackpool_FC    8    4    2    2    0    8    6      +2
+  7          Stoke_City    7    4    2    1    1    7    4      +3
+  8          Arsenal_FC    6    4    2    0    2   12    5      +7
+  9         Millwall_FC    6    4    2    0    2    5    8     -3
+ 10            Man_City    5    4    1    2    1    8    8      0
+ 11      Sunderland_AFC    5    4    1    2    1    5   10     -5
+ 12          Everton_FC    4    4    1    1    2    6    6      0
+ 13      Southampton_FC    4    4    1    1    2    3    5     -2
+ 14      Wigan_Athletic    4    4    1    1    2    2    4     -2
+ 15           Fulham_FC    3    4    0    3    1    8    9     -1
+ 16       Newcastle_Utd    2    4    0    2    2    8   12     -4
+ 17                 QPR    2    4    0    2    2    4    8     -4
+ 18    Blackburn_Rovers    1    4    0    1    3    3    7     -4
+ 19        West_Ham_Utd    1    4    0    1    3    3    9     -6
+ 20    Bolton_Wanderers    1    4    0    1    3    5   13     -8
+Wyniki spotkan 4 kolejki: 
+
+Man_City-Southampton_FC 2:2
+QPR-Chelsea_FC 0:3
+Fulham_FC-Brenford_FC 4:4
+Blackpool_FC-Wigan_Athletic 1:0
+Bolton_Wanderers-Arsenal_FC 1:4
+Millwall_FC-Newcastle_Utd 3:1
+Tottenham_Hotspurs-West_Ham_Utd 5:2
+Man_Utd-Stoke_City 1:1
+Liverpool_FC-Everton_FC 1:0
+Sunderland_AFC-Blackburn_Rovers 1:0
+
+
+
+
+
+
+
+
+

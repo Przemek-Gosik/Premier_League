@@ -1,0 +1,39 @@
+Tabela Ekstraklasa po kolejce nr9
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1      Legia_Warszawa   22    9    7    1    1   26    9      +17
+  2      Arsenal_Lublin   21    9    7    0    2   29   10      +19
+  3        Ruch_Chorzow   19    9    5    4    0   19    9      +10
+  4       Sygnal_Lublin   16    9    5    1    3   13   11      +2
+  5         Lech_Poznan   15    9    4    3    2   16   10      +6
+  6       Lechia_Gdansk   14    9    3    5    1   18   12      +6
+  7   Siarka_Tarnobrzeg   14    9    4    2    3   13   12      +1
+  8Jagiellonia_Bialystok   13    9    3    4    2   17   11      +6
+  9       Gornik_Leczna   13    9    4    1    4   23   23      0
+ 10         Widzew_Lodz   13    9    4    1    4   15   16     -1
+ 11      Nadwislan_Gora   12    9    3    3    3   16   24     -8
+ 12      Pogon_Szczecin   11    9    3    2    4   12   17     -5
+ 13       Gornik_Zabrze    9    9    2    3    4    9   15     -6
+ 14    Polonia_Warszawa    8    9    2    2    5    8   15     -7
+ 15       Hetman_Zamosc    8    9    2    2    5   13   22     -9
+ 16            Cracovia    7    9    1    4    4   16   22     -6
+ 17        Wisla_Krakow    4    9    0    4    5   12   20     -8
+ 18       Slask_Wroclaw    2    9    0    2    7   10   27    -17
+Wyniki spotkan 9 kolejki: 
+
+Polonia_Warszawa-Widzew_Lodz 0:2
+Lech_Poznan-Siarka_Tarnobrzeg 1:2
+Legia_Warszawa-Wisla_Krakow 2:0
+Gornik_Leczna-Hetman_Zamosc 5:2
+Gornik_Zabrze-Nadwislan_Gora 0:1
+Pogon_Szczecin-Lechia_Gdansk 2:2
+Arsenal_Lublin-Slask_Wroclaw 8:0
+Jagiellonia_Bialystok-Ruch_Chorzow 0:2
+Cracovia-Sygnal_Lublin 1:2
+
+
+
+
+
+
+
+

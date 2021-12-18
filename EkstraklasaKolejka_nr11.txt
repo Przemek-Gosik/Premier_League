@@ -1,0 +1,39 @@
+Tabela Ekstraklasa po kolejce nr11
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1      Legia_Warszawa   26   11    8    2    1   28    9      +19
+  2        Ruch_Chorzow   25   11    7    4    0   25   13      +12
+  3      Arsenal_Lublin   24   11    8    0    3   33   12      +21
+  4Jagiellonia_Bialystok   19   11    5    4    2   23   14      +9
+  5         Lech_Poznan   19   11    5    4    2   21   12      +9
+  6       Sygnal_Lublin   19   11    6    1    4   15   15      0
+  7       Lechia_Gdansk   17   11    4    5    2   25   18      +7
+  8       Gornik_Leczna   16   11    5    1    5   27   29     -2
+  9   Siarka_Tarnobrzeg   15   11    4    3    4   15   15      0
+ 10      Pogon_Szczecin   15   11    4    3    4   16   18     -2
+ 11      Nadwislan_Gora   15   11    4    3    4   18   27     -9
+ 12         Widzew_Lodz   13   11    4    1    6   16   19     -3
+ 13        Wisla_Krakow   10   11    2    4    5   15   20     -5
+ 14    Polonia_Warszawa    9   11    2    3    6    8   17     -9
+ 15       Gornik_Zabrze    9   11    2    3    6   10   20    -10
+ 16       Hetman_Zamosc    8   11    2    2    7   13   26    -13
+ 17            Cracovia    7   11    1    4    6   20   30    -10
+ 18       Slask_Wroclaw    6   11    1    3    7   13   27    -14
+Wyniki spotkan 11 kolejki: 
+
+Polonia_Warszawa-Wisla_Krakow 0:2
+Gornik_Leczna-Lech_Poznan 2:5
+Widzew_Lodz-Nadwislan_Gora 1:2
+Pogon_Szczecin-Siarka_Tarnobrzeg 1:1
+Legia_Warszawa-Slask_Wroclaw 0:0
+Jagiellonia_Bialystok-Hetman_Zamosc 1:0
+Gornik_Zabrze-Sygnal_Lublin 1:2
+Cracovia-Lechia_Gdansk 1:4
+Arsenal_Lublin-Ruch_Chorzow 1:2
+
+
+
+
+
+
+
+

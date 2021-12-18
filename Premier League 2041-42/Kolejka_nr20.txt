@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr20
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1          Chelsea_FC   44   20   13    5    2   43   22      +21
+  2   Manchester_United   43   20   13    4    3   57   21      +36
+  3        FC_Liverpool   42   20   13    3    4   52   22      +30
+  4          Arsenal_FC   42   20   12    6    2   36   16      +20
+  5  Tottenham_Hotspurs   37   20   10    7    3   38   27      +11
+  6     Manchester_City   35   20    9    8    3   50   24      +26
+  7          Everton_FC   32   20   10    2    8   44   32      +12
+  8      Southampton_FC   29   20    8    5    7   26   25      +1
+  9    Blackburn_Rovers   24   20    5    9    6   36   39     -3
+ 10     West_Ham_United   24   20    6    6    8   25   37    -12
+ 11      Wigan_Athletic   22   20    6    4   10   35   48    -13
+ 12         Brenford_FC   21   20    4    9    7   30   39     -9
+ 13          Reading_FC   21   20    4    9    7   22   33    -11
+ 14           Fulham_FC   20   20    4    8    8   32   38     -6
+ 15          Stoke_City   20   20    4    8    8   27   38    -11
+ 16   Nottingham_Forest   19   20    4    7    9   24   37    -13
+ 17      Sunderland_AFC   19   20    4    7    9   20   34    -14
+ 18     Bolton_Wanderes   18   20    5    3   12   24   53    -29
+ 19    Newcastle_United   14   20    2    8   10   29   43    -14
+ 20West_Bromwich_Albion   12   20    2    6   12   19   41    -22
+Wyniki spotkan 20 kolejki: 
+
+Southampton_FC-Bolton_Wanderes 1:1
+Arsenal_FC-Fulham_FC 1:1
+Sunderland_AFC-FC_Liverpool 0:2
+Newcastle_United-West_Ham_United 2:3
+Blackburn_Rovers-West_Bromwich_Albion 1:1
+Everton_FC-Tottenham_Hotspurs 5:0
+Chelsea_FC-Wigan_Athletic 2:2
+Nottingham_Forest-Stoke_City 2:2
+Manchester_United-Reading_FC 2:2
+Brenford_FC-Manchester_City 3:3
+
+
+
+
+
+
+
+
+

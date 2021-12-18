@@ -1,0 +1,11 @@
+Tabela Grupa po kolejce nr3
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1            Brazylia    9    3    3    0    0   10    0      +10
+  2              Wlochy    6    3    2    0    1    6    9     -3
+  3              Meksyk    3    3    1    0    2    4    6     -2
+  4             Japonia    0    3    0    0    3    0    5     -5
+Wyniki spotkan 3 kolejki: 
+
+Japonia-Meksyk 0:1
+Wlochy-Brazylia 0:6
+

@@ -1,0 +1,43 @@
+Tabela Serie_A_2043 po kolejce nr12
+Poz                   Druzyna  Pkt    M    W    R    P    +    - bilans
+  1            AC_Milan   33   12   11    0    1   33   10      +23
+  2             AS_Roma   28   12    9    1    2   37   13      +24
+  3      Inter_Mediolan   27   12    8    3    1   29   11      +18
+  4               Parma   25   12    7    4    1   28   17      +11
+  5          SSC_Napoli   23   12    7    2    3   29   16      +13
+  6     Sampdoria_Genua   23   12    7    2    3   24   27     -3
+  7      Juventus_Turyn   21   12    6    3    3   29   19      +10
+  8          Lazio_Rzym   21   12    6    3    3   18   15      +3
+  9      AFC_Fiorentina   19   12    5    4    3   21   16      +5
+ 10      Brescia_Calcio   17   12    5    2    5   14   16     -2
+ 11    Benevento_Calcio   15   12    4    3    5   18   17      +1
+ 12            US_Lecce   11   12    3    2    7   16   22     -6
+ 13     Cagliari_Calcio   11   12    3    2    7   16   25     -9
+ 14                SPAL   11   12    3    2    7   14   28    -14
+ 15     Sassuolo_Calcio   10   12    3    1    8   14   21     -7
+ 16       AS_Cittadella   10   12    2    4    6   13   27    -14
+ 17           Torino_FC    9   12    2    3    7   11   20     -9
+ 18           Genoa_AFC    8   12    1    5    6   17   28    -11
+ 19          Bologna_FC    7   12    2    1    9   14   29    -15
+ 20          Venezia_FC    6   12    1    3    8   15   33    -18
+Wyniki spotkan 12 kolejki: 
+
+Juventus_Turyn-Torino_FC 2:0
+US_Lecce-Genoa_AFC 2:2
+AFC_Fiorentina-SSC_Napoli 1:3
+AS_Roma-AS_Cittadella 3:0
+Cagliari_Calcio-Sampdoria_Genua 1:2
+Venezia_FC-Brescia_Calcio 2:1
+Bologna_FC-Sassuolo_Calcio 1:3
+SPAL-AC_Milan 2:3
+Parma-Benevento_Calcio 1:1
+Inter_Mediolan-Lazio_Rzym 2:1
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr22
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1   Manchester_United   49   22   15    4    3   69   22      +47
+  2        FC_Liverpool   48   22   15    3    4   58   23      +35
+  3          Chelsea_FC   47   22   14    5    3   47   25      +22
+  4  Tottenham_Hotspurs   43   22   12    7    3   41   28      +13
+  5          Arsenal_FC   42   22   12    6    4   38   21      +17
+  6     Manchester_City   41   22   11    8    3   55   25      +30
+  7          Everton_FC   35   22   11    2    9   48   34      +14
+  8      Southampton_FC   32   22    9    5    8   28   27      +1
+  9     West_Ham_United   28   22    7    7    8   30   40    -10
+ 10    Blackburn_Rovers   27   22    6    9    7   38   43     -5
+ 11          Reading_FC   25   22    5   10    7   25   35    -10
+ 12      Sunderland_AFC   25   22    6    7    9   25   37    -12
+ 13      Wigan_Athletic   25   22    7    4   11   37   55    -18
+ 14           Fulham_FC   21   22    4    9    9   34   41     -7
+ 15         Brenford_FC   21   22    4    9    9   32   43    -11
+ 16          Stoke_City   20   22    4    8   10   29   44    -15
+ 17   Nottingham_Forest   20   22    4    8   10   26   42    -16
+ 18     Bolton_Wanderes   18   22    5    3   14   26   58    -32
+ 19    Newcastle_United   17   22    3    8   11   31   45    -14
+ 20West_Bromwich_Albion   12   22    2    6   14   21   50    -29
+Wyniki spotkan 22 kolejki: 
+
+Southampton_FC-Sunderland_AFC 1:2
+Fulham_FC-West_Ham_United 2:2
+Blackburn_Rovers-Bolton_Wanderes 2:0
+Arsenal_FC-Tottenham_Hotspurs 1:2
+Chelsea_FC-FC_Liverpool 1:2
+Newcastle_United-Stoke_City 2:1
+Manchester_United-West_Bromwich_Albion 6:1
+Everton_FC-Manchester_City 0:1
+Brenford_FC-Wigan_Athletic 1:2
+Nottingham_Forest-Reading_FC 1:1
+
+
+
+
+
+
+
+
+

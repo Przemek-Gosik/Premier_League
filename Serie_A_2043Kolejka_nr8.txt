@@ -1,0 +1,43 @@
+Tabela Serie_A_2043 po kolejce nr8
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1            AC_Milan   21    8    7    0    1   23    6      +17
+  2             AS_Roma   19    8    6    1    1   29   10      +19
+  3               Parma   19    8    6    1    1   21   12      +9
+  4      Inter_Mediolan   18    8    5    3    0   21    7      +14
+  5      AFC_Fiorentina   17    8    5    2    1   18   10      +8
+  6          Lazio_Rzym   17    8    5    2    1   14    9      +5
+  7     Sampdoria_Genua   16    8    5    1    2   16   18     -2
+  8      Juventus_Turyn   14    8    4    2    2   20   13      +7
+  9          SSC_Napoli   13    8    4    1    3   19   11      +8
+ 10      Brescia_Calcio   11    8    3    2    3   10   11     -1
+ 11    Benevento_Calcio    8    8    2    2    4    8   10     -2
+ 12       AS_Cittadella    8    8    2    2    4   10   19     -9
+ 13     Sassuolo_Calcio    7    8    2    1    5   11   16     -5
+ 14            US_Lecce    7    8    2    1    5    9   15     -6
+ 15          Bologna_FC    7    8    2    1    5   11   18     -7
+ 16     Cagliari_Calcio    7    8    2    1    5    9   18     -9
+ 17           Torino_FC    5    8    1    2    5    7   14     -7
+ 18                SPAL    5    8    1    2    5    7   21    -14
+ 19           Genoa_AFC    3    8    0    3    5   12   23    -11
+ 20          Venezia_FC    2    8    0    2    6    9   23    -14
+Wyniki spotkan 8 kolejki: 
+
+Cagliari_Calcio-Torino_FC 2:1
+AS_Cittadella-Brescia_Calcio 1:1
+Bologna_FC-AFC_Fiorentina 1:3
+Genoa_AFC-AC_Milan 2:5
+Parma-Juventus_Turyn 3:1
+US_Lecce-Lazio_Rzym 1:2
+Inter_Mediolan-SSC_Napoli 3:1
+AS_Roma-Benevento_Calcio 1:0
+SPAL-Sampdoria_Genua 2:2
+Venezia_FC-Sassuolo_Calcio 1:2
+
+
+
+
+
+
+
+
+

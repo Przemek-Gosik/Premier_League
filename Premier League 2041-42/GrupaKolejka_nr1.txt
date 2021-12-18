@@ -1,0 +1,11 @@
+Tabela Grupa po kolejce nr1
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1            Brazylia    3    1    1    0    0    1    0      +1
+  2              Wlochy    3    1    1    0    0    1    0      +1
+  3              Meksyk    0    1    0    0    1    0    1     -1
+  4             Japonia    0    1    0    0    1    0    1     -1
+Wyniki spotkan 1 kolejki: 
+
+Brazylia-Meksyk 1:0
+Japonia-Wlochy 0:1
+

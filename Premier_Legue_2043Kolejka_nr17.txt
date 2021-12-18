@@ -1,0 +1,43 @@
+Tabela Premier_Legue_2043 po kolejce nr17
+Poz                   Druzyna  Pkt    M    W    R    P    +    - bilans
+  1        Liverpool_FC   43   17   14    1    2   47   17      +30
+  2  Tottenham_Hotspurs   43   17   13    4    0   43   18      +25
+  3          Chelsea_FC   35   17   11    2    4   44   20      +24
+  4            Man_City   33   17   10    3    4   44   21      +23
+  5             Man_Utd   32   17   10    2    5   37   22      +15
+  6          Arsenal_FC   29   17    8    5    4   37   21      +16
+  7      Sunderland_AFC   28   17    8    4    5   27   28     -1
+  8          Everton_FC   25   17    7    4    6   33   27      +6
+  9          Stoke_City   23   17    7    2    8   23   28     -5
+ 10    Bolton_Wanderers   21   17    6    3    8   28   41    -13
+ 11        West_Ham_Utd   20   17    5    5    7   27   30     -3
+ 12        Blackpool_FC   19   17    4    7    6   21   32    -11
+ 13         Brenford_FC   18   17    4    6    7   31   33     -2
+ 14           Fulham_FC   18   17    4    6    7   27   33     -6
+ 15    Blackburn_Rovers   18   17    5    3    9   23   32     -9
+ 16      Southampton_FC   16   17    4    4    9   19   26     -7
+ 17                 QPR   15   17    4    3   10   23   38    -15
+ 18         Millwall_FC   15   17    4    3   10   18   38    -20
+ 19       Newcastle_Utd   11   17    2    5   10   25   45    -20
+ 20      Wigan_Athletic   10   17    2    4   11   15   42    -27
+Wyniki spotkan 17 kolejki: 
+
+Southampton_FC-Tottenham_Hotspurs 0:2
+Newcastle_Utd-Stoke_City 1:3
+Liverpool_FC-Bolton_Wanderers 3:1
+Wigan_Athletic-Blackburn_Rovers 2:0
+Sunderland_AFC-Fulham_FC 1:1
+Chelsea_FC-Everton_FC 5:4
+Man_Utd-Man_City 2:0
+QPR-West_Ham_Utd 3:5
+Millwall_FC-Brenford_FC 0:2
+Blackpool_FC-Arsenal_FC 2:2
+
+
+
+
+
+
+
+
+

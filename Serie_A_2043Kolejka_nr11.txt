@@ -1,0 +1,43 @@
+Tabela Serie_A_2043 po kolejce nr11
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1            AC_Milan   30   11   10    0    1   30    8      +22
+  2             AS_Roma   25   11    8    1    2   34   13      +21
+  3      Inter_Mediolan   24   11    7    3    1   27   10      +17
+  4               Parma   24   11    7    3    1   27   16      +11
+  5          Lazio_Rzym   21   11    6    3    2   17   13      +4
+  6          SSC_Napoli   20   11    6    2    3   26   15      +11
+  7     Sampdoria_Genua   20   11    6    2    3   22   26     -4
+  8      AFC_Fiorentina   19   11    5    4    2   20   13      +7
+  9      Juventus_Turyn   18   11    5    3    3   27   19      +8
+ 10      Brescia_Calcio   17   11    5    2    4   13   14     -1
+ 11    Benevento_Calcio   14   11    4    2    5   17   16      +1
+ 12     Cagliari_Calcio   11   11    3    2    6   15   23     -8
+ 13                SPAL   11   11    3    2    6   12   25    -13
+ 14            US_Lecce   10   11    3    1    7   14   20     -6
+ 15       AS_Cittadella   10   11    2    4    5   13   24    -11
+ 16           Torino_FC    9   11    2    3    6   11   18     -7
+ 17     Sassuolo_Calcio    7   11    2    1    8   11   20     -9
+ 18           Genoa_AFC    7   11    1    4    6   15   26    -11
+ 19          Bologna_FC    7   11    2    1    8   13   26    -13
+ 20          Venezia_FC    3   11    0    3    8   13   32    -19
+Wyniki spotkan 11 kolejki: 
+
+Torino_FC-Genoa_AFC 1:2
+Juventus_Turyn-AFC_Fiorentina 1:1
+AS_Cittadella-US_Lecce 1:3
+SSC_Napoli-Cagliari_Calcio 2:1
+Brescia_Calcio-AS_Roma 0:2
+Sampdoria_Genua-Bologna_FC 2:1
+AC_Milan-Venezia_FC 3:1
+Sassuolo_Calcio-Parma 0:2
+Lazio_Rzym-SPAL 1:0
+Benevento_Calcio-Inter_Mediolan 1:0
+
+
+
+
+
+
+
+
+

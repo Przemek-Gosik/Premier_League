@@ -1,0 +1,43 @@
+Tabela Premier League po kolejce nr33
+Poz             Druzyna  Pkt    M    W    R    P    +    - bilans
+  1   Manchester_United   78   33   24    6    3  108   39      +69
+  2          Chelsea_FC   73   33   22    7    4   77   35      +42
+  3        FC_Liverpool   67   33   21    4    8   79   35      +44
+  4     Manchester_City   67   33   19   10    4   79   37      +42
+  5  Tottenham_Hotspurs   61   33   17   10    6   62   42      +20
+  6          Arsenal_FC   57   33   16    9    8   58   42      +16
+  7          Everton_FC   51   33   15    6   12   67   47      +20
+  8      Southampton_FC   47   33   13    8   12   39   45     -6
+  9     West_Ham_United   45   33   12    9   12   47   52     -5
+ 10      Sunderland_AFC   40   33   10   10   13   43   54    -11
+ 11         Brenford_FC   39   33    9   12   12   48   59    -11
+ 12    Blackburn_Rovers   35   33    8   11   14   44   57    -13
+ 13    Newcastle_United   35   33    9    8   16   51   65    -14
+ 14           Fulham_FC   34   33    7   13   13   46   57    -11
+ 15      Wigan_Athletic   34   33    9    7   17   47   78    -31
+ 16          Stoke_City   32   33    7   11   15   43   64    -21
+ 17          Reading_FC   31   33    6   13   14   37   54    -17
+ 18   Nottingham_Forest   27   33    5   12   16   35   65    -30
+ 19     Bolton_Wanderes   25   33    6    7   20   37   83    -46
+ 20West_Bromwich_Albion   21   33    4    9   20   34   71    -37
+Wyniki spotkan 33 kolejki: 
+
+Wigan_Athletic-Southampton_FC 0:1
+Nottingham_Forest-Everton_FC 1:3
+West_Bromwich_Albion-Reading_FC 2:2
+Brenford_FC-Newcastle_United 2:1
+FC_Liverpool-Manchester_City 1:2
+Manchester_United-Arsenal_FC 6:1
+Bolton_Wanderes-Stoke_City 2:0
+Chelsea_FC-Fulham_FC 3:0
+Sunderland_AFC-Tottenham_Hotspurs 1:2
+Blackburn_Rovers-West_Ham_United 0:2
+
+
+
+
+
+
+
+
+
