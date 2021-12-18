@@ -26,7 +26,7 @@ Legia_Warszawa-Wisla_Krakow 2:0
 Gornik_Leczna-Hetman_Zamosc 5:2
 Gornik_Zabrze-Nadwislan_Gora 0:1
 Pogon_Szczecin-Lechia_Gdansk 2:2
-Arsenal_Lublin-Slask_Wroclaw 8:0
+Arsenal_Lublin-Slask_Wroclaw 8:0 uu
 Jagiellonia_Bialystok-Ruch_Chorzow 0:2
 Cracovia-Sygnal_Lublin 1:2
 
